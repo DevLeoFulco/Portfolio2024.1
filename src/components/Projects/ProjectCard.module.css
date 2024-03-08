@@ -1,0 +1,72 @@
+@import "../../vars.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+  box-shadow: 0 16px 14px 0 #04152d;
+  padding: 18px 24px 20px; /* Adiciona espaçamento interno na parte inferior */
+  max-width: 345px;
+  gap: 6px;
+  height: 550px; /* Altura fixa para os cards */
+  overflow: hidden; /* Adiciona um overflow para lidar com descrições mais longas */
+}
+
+.image {
+  margin-bottom: 25px;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.description {
+  margin-top: 26px;
+  margin-bottom: 15px;
+  font-size: 20px; /* Ajuste o tamanho da fonte conforme necessário */
+  font-weight: 400;
+  gap: 6px;
+  text-overflow: ellipsis; /* Adiciona reticências para descrições que ultrapassam a altura */
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* Número máximo de linhas a serem exibidas */
+  -webkit-box-orient: vertical;
+}
+
+.skills {
+  width: 100%;
+  margin-top: 24px;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+}
+
+.skill {
+  font-size: 20px;
+  font-weight: 400;
+  border-radius: 100px;
+  background: var(--color-dark);
+  padding: 2px 22px;
+}
+
+.links {
+  width: 100%;
+  margin-top: 130px; /* Ajuste conforme necessário */
+  display: flex;
+  justify-content: space-around;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 30px;
+  font-weight: 600;
+  border-radius: 90px;
+  background: var(--color-primary);
+  padding: 1px 22px;
+  margin: 0 5px;
+}

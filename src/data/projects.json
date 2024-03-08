@@ -1,0 +1,81 @@
+[
+  {
+    "title": "Aplicativos de vendas",
+    "imageSrc": "projects/appReactNative.png",
+    "description": "Aplicativos de delivery e lojas virtuais",
+    "skills": ["React Native", "Expo", "Firebase", "Tailwind"],
+    "demo": "https://expo.dev/accounts/devleofulco/projects/mone-art-fest",
+    "source": "https://github.com/DevLeoFulco/Aplicativo-Web-Delivery"
+  },
+  {
+    "title": "Buzz Feed Quiz",
+    "imageSrc": "projects/buzzFeed.png",
+    "description": "Sistema que gera resultado com base em escolhas.",
+    "skills": ["Angular", "Node", "Karma test"],
+    "demo": "https://buzz-feed-navy.vercel.app/",
+    "source": "https://github.com/DevLeoFulco/BuzzFeed-DIO"
+  },
+  {
+    "title": "Sistema gerador de Enquetes",
+    "imageSrc": "projects/nodeEnquete.jpg",
+    "description": "Crie sua enquete e acompanhe em tempo real.",
+    "skills": ["Node", "Fastify", "Redis", "Docker"],
+    "source": "https://github.com/DevLeoFulco/EnqueteRealTime"
+  },
+  {
+    "title": "Agenda Telefonica",
+    "imageSrc": "projects/Indexa.png",
+    "description": "Esta agenda dinamica os contatos de seu Smartphone, via arquivo JSON ",
+    "skills": ["Angular", "Typescript", "Express", "Node"],
+    "demo": "https://agenda-telefonica-kappa.vercel.app/",
+    "source": "https://github.com/DevLeoFulco/Agenda-Telefonica"
+  },
+  {
+    "title": "Sistema de Automação",
+    "imageSrc": "projects/automacao.png",
+    "description": "Sistema que automatiza processos de rotina e alimenta plataforma atraves da leitura e inserção de arquivo .csv ",
+    "skills": ["Python", "PyAutogui", "Pandas", "Numpy"],
+    "demo": "https://github.com/DevLeoFulco/Sistema-Automacao",
+    "source": "https://github.com/DevLeoFulco/Sistema-Automacao"
+  },
+  {
+    "title": "Algoritmo de Predição",
+    "imageSrc": "projects/IA Preditiva.png",
+    "description": "Algoritmo desenvolvido que recebe uma base de dados CSV, faz o tratamento e usa IA para previsão de resultados.",
+    "skills": ["Python", "Inteligencia Artificial"],
+    "demo": "https://github.com/DevLeoFulco/IA-Previsao",
+    "source": "https://github.com/DevLeoFulco/IA-Previsao"
+  },
+  {
+    "title": "API de Geolocalização",
+    "imageSrc": "projects/consulteRepo.png",
+    "description": "API que converte as informações de localização escritas, em pontos de localização",
+    "skills": ["Java", "Spring", "API Rest", "Junit"],
+    "demo": "https://github.com/DevLeoFulco/API-Geolocalizacao",
+    "source": "https://github.com/DevLeoFulco/API-Geolocalizacao"
+  },
+  {
+    "title": "Algoritmo de busca A*",
+    "imageSrc": "projects/consulteRepo.png",
+    "description": "Um algoritmo que identifica o melhor percurso dados os pontos iniciais e finais",
+    "skills": ["JavaScript", "Arvore de decisão"],
+    "demo": "https://github.com/DevLeoFulco/Aestrela",
+    "source": "https://github.com/DevLeoFulco/Aestrela"
+  },
+  {
+    "title": "CRUD NODE.JS/MySQL",
+    "imageSrc": "projects/consulteRepo.png",
+    "description": "Crud para cadastros de Usuarios em banco de dados, projetando as informações sem uso de APIs",
+    "skills": ["Node", "React", "MySQL"],
+    "demo": "https://github.com/DevLeoFulco/Crud-NodeJs-React-MySql",
+    "source": "https://github.com/DevLeoFulco/Crud-NodeJs-React-MySql"
+  },
+  {
+    "title": "Gestão inteligente",
+    "imageSrc": "projects/consulteRepo.png",
+    "description": "Sistema que faz o gerenciamento dos clientes e adiciona roteiros via coordenadas, para visita a clientes ",
+    "skills": ["Node", "React", "Postgres"],
+    "demo": "https://gestao-de-clientes-com-rotas.vercel.app/",
+    "source": "https://github.com/DevLeoFulco/React-Node-Facilita-Jur"
+  }
+]

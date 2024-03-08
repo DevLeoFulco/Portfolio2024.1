@@ -1,0 +1,28 @@
+[
+  
+  {
+    "role": "Back End Developer",
+    "organisation": "ExMed",
+    "startDate": "Ago, 2023",
+    "endDate": "Dez, 2023",
+    "experiences": ["Desenvolver APIs Rest", "Criar e integrar eventos do sistema"],
+    "imageSrc": "history/exmed.png"
+  },
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Liferay",
+    "startDate": "Fev, 2023",
+    "endDate": "Jul, 2023",
+    "experiences": [
+      "Desenvolver plataforma web", "Integrar Frontend com Backend via API"],
+    "imageSrc": "history/logoLiferay.png"
+  },
+  {
+    "role": "Data Mapper",
+    "organisation": "Google",
+    "startDate": "Fev, 2020",
+    "endDate": "Set, 2020",
+    "experiences": ["Trabalho no Street View", "Tratamento e manipulação de dados"],
+    "imageSrc": "history/logoGoogle.png"
+  }
+]
